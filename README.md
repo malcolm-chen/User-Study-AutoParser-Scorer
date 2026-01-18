@@ -20,8 +20,9 @@ OPENAI_API_KEY=your_key_here
 ```
 
 ## Usage
-1. put the transcription files under the `transcriptions` folder
-2. Edit the script's main block (`transcription_parser.py`, lines 607-620) with your file paths:
+1. Create three folders at the project root directory: `transcriptions`, `output`, and `extracted_data`
+2. Put the transcription files under the `transcriptions` folder
+3. Edit the script's main block (`transcription_parser.py`, lines 607-620) with your file paths:
 
 - `TRANSCRIPTION_FILE`: Path to your transcription file (e.g., `.vtt` format)
 - `QUESTION_FILE`: Path to the question protocol file (e.g., `Curio 2.0 pilot.txt`)
