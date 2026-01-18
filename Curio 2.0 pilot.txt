@@ -1,0 +1,197 @@
+
+[pre-test]
+1. Why do you think only the boy on the right feels a spark, but the boy on the left does it?
+
+2. If you are allowed to ask one question to add more information to your previous answer, what kind of information do you want to ask for?
+
+[post-test]
+(Warm-up Q). As a warm-up, let’s revisit one of the rooms we already explored. How would you explain to the girls why one girl’s hair sticks to the balloon and why the other girl’s hair stays normal? 
+* When the child’s answer is too simple, ask them to provide details about why and how that happens, or how this is related to the difference between the two girls
+
+Awesome! I will now ask you 12 questions about the concept you may have talked about with Curio.
+ 
+Some of them may not have been introduced during the investigation. If so, don’t worry, and let me know that you did not learn it from Curio. 
+
+
+1. Do objects always need to touch to make them start moving? Yes or No? 
+[Correct answer: No]
+
+
+If NO, ask “Why not?”
+If YES, ask “Why?”
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+2. Based on what we learned, how can one object move another object without touching it? 
+[Correct answer: Because of invisible energy/ electric force/ force from far away]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. Something can move another object without touching it, because “matter moves through the air between the objects”, “some forces act across empty space”, or “all objects contain magnets”.
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ Matter moves through the air between the objects
+☐ Some forces act across empty space (correct answer)
+☐ All objects contain magnets
+☐ I did not learn this concept from AI
+
+
+3. What can happen when two objects are rubbed together? 
+[Correct answer: Tiny particles can invisibly move between them]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. When two objects are rubbed together, “the weight of the objects increases”, “something moves between the objects”, or “the objects lose heat energy”. 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ The weight of the objects increases
+☐ Something moves between the objects (correct answer)
+☐ The objects lose heat energy
+☐ I did not learn this concept from AI
+
+
+4. What is static electricity?
+[Correct answer: Electricity that builds up when tiny particles with electric charges (electrons) move between objects.]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you some keywords. Explain what static electricity is using some of these words: “Electricity”, “Object”, “Charge”, “Build”, “Move”. 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+5. Why does rubbing objects help create static electricity? 
+[Correct answer: Rubbing gives energy that makes tiny particles move between the objects]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. Rubbing can create static electricity because “rubbing gives energy to the objects, “ rubbing changes the temperature of the objects”, or “Rubbing pushes air between the objects”. 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ Rubbing gives energy to the objects (correct answer)
+☐ Rubbing changes the temperature of the objects
+☐ Rubbing pushes air between the objects
+☐ I did not learn this concept from AI
+
+
+6. When static electricity builds up, what happens to the electric charges on the objects? 
+[Correct answer: The charges are not the same on the two objects/ One object gets a more negative charge, and the other gets a positive charge]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. When static electricity builds up, do electric charges “disappear from both objects”, “remain evenly balanced”, or “end up different on the two objects”?
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ Electric charges disappear from both objects
+☐ Electric charges remain the same on both objects
+☐ Electric charges end up different on the two objects (correct answer)
+☐ I did not learn this concept from AI
+
+
+7. What happens when two objects have opposite electric charges?
+[Correct answer: They attract each other]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. When two objects have opposite electric charges, do they “push one another away”, “attract each other”, or “nothing happens”?
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ They push one another away
+☐ They attract each other (correct answer)
+☐ Nothing happens
+☐ I did not learn this concept from AI
+
+
+8. What happens when two objects have the same electric charge?
+[Correct answer: They repel each other]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. When two objects have the same electric charges, do they “push one another away”, “attract each other”, or “nothing happens”?
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ They push one another away (correct answer)
+☐ They attract each other
+☐ Nothing happens
+☐ I did not learn this concept from AI
+
+
+9. What kind of material is likely to build up static electricity when rubbed?
+[Correct answer: Plastic, Fleece or Wool, Rubber]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. It is “metal”, “plastic”, or “wet cloth” that is likely to build up static electricity when rubbed? 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ Metal
+☐ Plastic (correct answer)
+☐ Wet cloth
+☐ I did not learn this concept from AI
+
+
+10. Which condition would make static electricity weaker?
+[Correct answer: Wet air, Watery things, Metal objects] 
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you three options. Static electricity gets weaker “in dry air”, “when rubbing objects more times”, or “in wet or humid air”. 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+☐ Dry air
+☐ Rubbing objects more times
+☐ Wet or humid air (correct answer)
+☐ I did not learn this concept from AI
+
+
+11. How can an object with static electricity pull on another object without touching it? Explain in one or two sentences. 
+[Correct answer: Static electricity creates an invisible force because electric charges build up on objects. When two objects have opposite charges, this force can pull the objects toward each other even without touching.]
+
+
+If the child does not give a correct answer:
+Okay, I’m going to give you some keywords. Explain how static electricity pulls on another object without touching it using some of the following words: “Electric charges”, “Invisible force”, “Opposite”, “Pull”, “Build up”. 
+
+
+(After the child responds) Before we move on, did you learn the answer to this question from Curio?
+
+
+12 (Transfer). Open pilot images and show an image on page 1
+
+
+Now I will show you the image we explored at the beginning of this session. Two boys are trying to open doors. The boy on the right is surprised because he feels a small spark when his hand gets close to the doorknob. The boy on the left also tries to touch his doorknob, and nothing unusual happens. 
+
+
+Right? Let me ask you two questions:
+1. Why do you think only the boy on the right feels a spark, but the boy on the left does not?
+   1. When the child’s answer is too simple, ask them to provide details about why and how that happens, or how this is related to the difference between the two boys (the welcome mat)
+2. If you are allowed to ask one question to add more information to your previous answer, what kind of information do you want to ask for?
+   1. Do you have any other information you would like to search for? 
+   2. What other information do you want to know?
+* Assesses whether the child is (1) aware of the gap and (2) able to formulate questions based on the gap
